@@ -1,0 +1,8 @@
+Q: What are your business hours?
+A: We are open Monday through Friday, 9 AM to 6 PM.
+
+Q: How can I contact support?
+A: Email support@example.com or call 1-800-555-0100.
+
+Q: What is your return policy?
+A: We offer a 30-day money-back guarantee on all products.
