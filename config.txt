@@ -1,2 +1,12 @@
+# Provider: "glm" or "openrouter"
+PROVIDER=glm
+
+# GLM settings (Z.AI coding API)
+GLM_API_KEY=c4fb2a23e6634a338fd10b226b907212.eFivr04P4RxwNpc8
+GLM_BASE_URL=https://api.z.ai/api/coding/paas/v4
+
+# OpenRouter settings
 OPENROUTER_API_KEY=sk-or-REPLACE-ME
-MODEL=anthropic/claude-sonnet-4
+
+# Model name (interpreted per provider)
+MODEL=glm-5
